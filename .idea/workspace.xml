@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22a6113f-adb7-4bed-ad56-8f27767aeec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wwmhdjxozco04wqVamrb281MEc" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UsersInLondon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.UsersInLondon" />
+      <module name="DWP-Online-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsersInLondon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22a6113f-adb7-4bed-ad56-8f27767aeec6" name="Default Changelist" comment="" />
+      <created>1580069151050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580069151050</updated>
+      <workItem from="1580069154801" duration="1102000" />
+      <workItem from="1591800978701" duration="1439000" />
+      <workItem from="1592084947173" duration="1500000" />
+      <workItem from="1592128413597" duration="748000" />
+      <workItem from="1592168854916" duration="3067000" />
+      <workItem from="1592214415629" duration="4290000" />
+      <workItem from="1592226624693" duration="2890000" />
+      <workItem from="1592236532004" duration="1309000" />
+      <workItem from="1592257298441" duration="606000" />
+      <workItem from="1592290595575" duration="1766000" />
+      <workItem from="1592341283418" duration="4000" />
+      <workItem from="1597840868023" duration="667000" />
+      <workItem from="1597848320911" duration="1517000" />
+      <workItem from="1597912549286" duration="434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="53" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592221301279">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="347" y="53" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592221301279" />
+    <state x="410" y="64" key="FileChooserDialogImpl" timestamp="1592228435680">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="64" key="FileChooserDialogImpl/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592228435680" />
+    <state width="1493" height="91" key="GridCell.Tab.0.bottom" timestamp="1597860659899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="3" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592236506406" />
+    <state width="1493" height="91" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.130.1360.728@0.0.1536.824" timestamp="1597860659899" />
+    <state width="1493" height="91" key="GridCell.Tab.0.center" timestamp="1597860659898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="3" key="GridCell.Tab.0.center/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592236506406" />
+    <state width="1493" height="91" key="GridCell.Tab.0.center/0.0.1536.824/1920.130.1360.728@0.0.1536.824" timestamp="1597860659898" />
+    <state width="1493" height="91" key="GridCell.Tab.0.left" timestamp="1597860659898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="3" key="GridCell.Tab.0.left/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592236506405" />
+    <state width="1493" height="91" key="GridCell.Tab.0.left/0.0.1536.824/1920.130.1360.728@0.0.1536.824" timestamp="1597860659898" />
+    <state width="1493" height="91" key="GridCell.Tab.0.right" timestamp="1597860659898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="3" key="GridCell.Tab.0.right/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592236506406" />
+    <state width="1493" height="91" key="GridCell.Tab.0.right/0.0.1536.824/1920.130.1360.728@0.0.1536.824" timestamp="1597860659898" />
+    <state x="306" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1592128557991">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="306" y="150" key="com.intellij.ide.util.TipDialog/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592128557991" />
+    <state x="0" y="17" key="new project wizard" timestamp="1592235612208">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="17" key="new project wizard/0.0.1360.728/1360.0.1920.1040@0.0.1360.728" timestamp="1592235612208" />
+  </component>
+</project>
